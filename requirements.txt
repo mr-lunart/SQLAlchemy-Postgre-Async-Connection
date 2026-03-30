@@ -1,0 +1,10 @@
+SQLAlchemy
+psycopg[binary]
+psycopg2-binary
+fastapi
+uvicorn
+python-dotenv
+requests
+# passlib[bcrypt]==1.7.4
+# pyjwt==2.9.0
+# python-multipart==0.0.9
